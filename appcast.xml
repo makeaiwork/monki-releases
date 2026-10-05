@@ -7,13 +7,30 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for Monki on macOS.</description>
         <language>en</language>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Mon, 05 Oct 2026 22:40:44 +0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Monki 1.0.4
+
+- Monki now checks for updates immediately after launch when automatic checking is enabled.
+- Background update checks now run every six hours while Monki is running.
+- Turning off automatic checks also disables the launch check. Manual checks remain available.
+
+Requires an Apple Silicon Mac running macOS 26 or later.
+]]></description>
+            <enclosure url="https://github.com/makeaiwork/monki-releases/releases/download/v1.0.4/Monki-1.0.4.dmg" length="3800523" type="application/octet-stream" sparkle:edSignature="NhsWKuxKEMU406AXI5oVXY78G4UbJQYxV9TjZw/U3Iad06QF3YsbEL5419WBkGm8ov85SU94m0EPnb0G66LDDQ=="></enclosure>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Mon, 05 Oct 2026 22:04:22 +0300</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Monki 1.0.3
+            <description sparkle:format="markdown"># Monki 1.0.3
 
 - Added secure in-app updates, with manual checks and configurable background checks and downloads.
 - Added English, Russian, Spanish, German, and French interfaces, following macOS language preferences.
@@ -23,11 +40,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 Requires an Apple Silicon Mac running macOS 26 or later.
 
 Install this first Sparkle-enabled release manually. Future releases can be installed through Monki's updater.
-]]></description>
+</description>
             <enclosure url="https://github.com/makeaiwork/monki-releases/releases/download/v1.0.3/Monki-1.0.3.dmg" length="3803787" type="application/octet-stream" sparkle:edSignature="+NilLLzni7q98Qw4QdwYkZnvHLo5lW2zszd+cqVRIM6vfde0J64255Bt5CPk+Qyvmgzlx2ErOAUW8trD9TZdAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: pY8XcyQC9Cojgv/ZnT0jzglhfNErzhhRKVSLOchU/gy3R03471Twa18cBAMLn7RYUX9SqzdWFG0iqIrcXN04CQ==
-length: 1986
+edSignature: 3lFcAYj3y5oOWKjFJyAdNEdgEfmadHPqacB2rWx+ByYkvShybkKH8ZlAirHOwbbB9ZbSBUE7yOxTCci7OUyCBA==
+length: 3083
 -->
