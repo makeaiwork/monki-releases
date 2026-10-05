@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Monki Updates</title>
+    <link>https://github.com/makeaiwork/monki-releases</link>
+    <description>Signed updates for Monki on macOS.</description>
+    <language>ru</language>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: Mum7Cq5WoqV4CnUeYD8rFqtgiN9kyZsV5KU4cS8pYc+CpfUJw8vaAPZnutxQidO5NWnOajHbd1B0/jE5ZMQrBQ==
+length: 599
+-->
